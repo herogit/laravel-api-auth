@@ -19,7 +19,7 @@ composer require ycan/laravel-api-auth
 
 2. 发布配置文件
     ```
-    php artisan vendor:publish --provider="apiAuth"
+    php artisan vendor:publish --tag="apiAuth"
     ```
 
 3. 在 `App\Http\Kernal` 中注册中间件 

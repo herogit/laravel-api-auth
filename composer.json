@@ -2,7 +2,7 @@
     "name": "ycan/laravel-api-auth",
     "description": "laravel验证api请求签名",
     "license": "proprietary",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "authors": [
         {
             "name": "ycan",
